@@ -1,0 +1,5 @@
+J:\Pacman1\Pacman1\bin\Release\Pacman1.exe
+J:\Pacman1\Pacman1\bin\Release\Pacman1.pdb
+J:\Pacman1\Pacman1\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Pacman1\Pacman1\obj\x86\Release\Pacman1.exe
+J:\Pacman1\Pacman1\obj\x86\Release\Pacman1.pdb

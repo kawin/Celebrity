@@ -1,0 +1,5 @@
+C:\Users\kawintha\AppData\Local\Temporary Projects\Pacman\bin\Release\Pacman.exe
+C:\Users\kawintha\AppData\Local\Temporary Projects\Pacman\bin\Release\Pacman.pdb
+C:\Users\kawintha\AppData\Local\Temporary Projects\Pacman\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kawintha\AppData\Local\Temporary Projects\Pacman\obj\x86\Release\Pacman.exe
+C:\Users\kawintha\AppData\Local\Temporary Projects\Pacman\obj\x86\Release\Pacman.pdb
