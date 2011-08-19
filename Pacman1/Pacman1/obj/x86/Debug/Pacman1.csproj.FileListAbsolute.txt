@@ -3,3 +3,19 @@ J:\Pacman1\Pacman1\bin\Debug\Pacman1.exe
 J:\Pacman1\Pacman1\bin\Debug\Pacman1.pdb
 J:\Pacman1\Pacman1\obj\x86\Debug\Pacman1.exe
 J:\Pacman1\Pacman1\obj\x86\Debug\Pacman1.pdb
+J:\Pacman1\Pacman1\bin\Debug\nunit.framework.dll
+J:\Pacman1\Pacman1\bin\Debug\nunit.framework.xml
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Debug\Pacman1.exe
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Debug\Pacman1.pdb
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Debug\Pacman1.exe
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Debug\Pacman1.pdb
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Debug\nunit.framework.dll
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Debug\nunit.framework.xml
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Debug\Pacman1.exe
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Debug\Pacman1.pdb
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Debug\Pacman1.exe
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Debug\Pacman1.pdb
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Debug\ResolveAssemblyReference.cache

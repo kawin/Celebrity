@@ -3,3 +3,19 @@ J:\Pacman1\Pacman1\bin\Release\Pacman1.pdb
 J:\Pacman1\Pacman1\obj\x86\Release\ResolveAssemblyReference.cache
 J:\Pacman1\Pacman1\obj\x86\Release\Pacman1.exe
 J:\Pacman1\Pacman1\obj\x86\Release\Pacman1.pdb
+J:\Pacman1\Pacman1\bin\Release\nunit.framework.dll
+J:\Pacman1\Pacman1\bin\Release\nunit.framework.xml
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Release\Pacman1.exe
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Release\Pacman1.pdb
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Release\nunit.framework.dll
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\bin\Release\nunit.framework.xml
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Release\Pacman1.exe
+C:\Users\kawintha\Desktop\Pacman1\Pacman1\obj\x86\Release\Pacman1.pdb
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Release\Pacman1.exe
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Release\Pacman1.pdb
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Release\nunit.framework.dll
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\bin\Release\nunit.framework.xml
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Release\Pacman1.exe
+C:\Documents and Settings\admin\Desktop\Pacman1\Pacman1\obj\x86\Release\Pacman1.pdb
